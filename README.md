@@ -19,7 +19,5 @@ writing by: Visual Studio Code
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-the original repo:
-https://github.com/udacity/pdsnd_github.git by udacity
+
 
