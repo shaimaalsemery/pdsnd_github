@@ -7,7 +7,12 @@ Fri Dec 18 18:59:42 2020 
 the bikeshare project
 ### Description
 
-gives informative statistics about bike share systems for three major cities in the United States—Chicago, New York City, and Washington
+gives informative statistics about bike share systems for three major cities in the United States—Chicago, New York City, and Washington about:
+1-Popular times of travel
+2-Popular stations and trip
+3-Trip duration
+4-User info
+
 ### Files used
 
 the used files:
