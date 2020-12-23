@@ -170,7 +170,9 @@ def user_stats(df):
         recent=CITY_DATA['Birth Year'].max()[0]
         common=CITY_DATA['Birth Year'].mode()[0]
     except KeyError:
-        print('there is no users year birth data for this city') 
+        print('there is no users year birth data for this city')
+
+    
         
         
     
